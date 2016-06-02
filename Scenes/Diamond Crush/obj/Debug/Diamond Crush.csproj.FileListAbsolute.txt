@@ -1,0 +1,2 @@
+D:\Repository\DiamondCrush\Diamond Crush\bin\Debug\Diamond Crush.exe.config
+D:\Repository\DiamondCrush\Scenes\Diamond Crush\bin\Debug\Diamond Crush.exe.config
