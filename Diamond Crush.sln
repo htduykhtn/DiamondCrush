@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond Crush", "Diamond Crush\Diamond Crush.csproj", "{EC949F61-CD8D-48B6-807A-2B90CF1C3A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{E8130F79-7E75-406A-8CE3-FFD91B58BCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformTest", "..\WinformTest\WinformTest\WinformTest.csproj", "{109A7D02-A89F-4FE3-9693-041062A467DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC949F61-CD8D-48B6-807A-2B90CF1C3A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC949F61-CD8D-48B6-807A-2B90CF1C3A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC949F61-CD8D-48B6-807A-2B90CF1C3A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC949F61-CD8D-48B6-807A-2B90CF1C3A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8130F79-7E75-406A-8CE3-FFD91B58BCD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8130F79-7E75-406A-8CE3-FFD91B58BCD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8130F79-7E75-406A-8CE3-FFD91B58BCD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8130F79-7E75-406A-8CE3-FFD91B58BCD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109A7D02-A89F-4FE3-9693-041062A467DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109A7D02-A89F-4FE3-9693-041062A467DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109A7D02-A89F-4FE3-9693-041062A467DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109A7D02-A89F-4FE3-9693-041062A467DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
